@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "estudiante_id": 1,
+        "materia_id": 2,
+        "periodo": "2026",
+        "promedio": 15.0,
+        "estado": "Aprobado",
+        "notas": [
+            {
+                "tipo": "deber",
+                "valor": 15.0,
+                "peso": 1.0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "estudiante_id": 1,
+        "materia_id": 1,
+        "periodo": "2026",
+        "promedio": 4.0,
+        "estado": "Reprobado",
+        "notas": [
+            {
+                "tipo": "deber",
+                "valor": 4.0,
+                "peso": 1.0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "estudiante_id": 5,
+        "materia_id": 4,
+        "periodo": "2026",
+        "promedio": 19.0,
+        "estado": "Aprobado",
+        "notas": [
+            {
+                "tipo": "examen",
+                "valor": 19.0,
+                "peso": 1.0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "estudiante_id": 2,
+        "materia_id": 2,
+        "periodo": "2026",
+        "promedio": 17.0,
+        "estado": "Aprobado",
+        "notas": [
+            {
+                "tipo": "examen",
+                "valor": 17.0,
+                "peso": 1.0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "estudiante_id": 2,
+        "materia_id": 5,
+        "periodo": "2026",
+        "promedio": 20.0,
+        "estado": "Aprobado",
+        "notas": [
+            {
+                "tipo": "lección",
+                "valor": 20.0,
+                "peso": 1.0
+            }
+        ]
+    }
+]

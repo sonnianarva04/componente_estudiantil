@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "Matematicas",
+        "codigo": "0001",
+        "creditos": 3,
+        "docente_id": 3
+    },
+    {
+        "id": 2,
+        "nombre": "Programacion",
+        "codigo": "0002",
+        "creditos": 3,
+        "docente_id": 2
+    },
+    {
+        "id": 3,
+        "nombre": "Quimica",
+        "codigo": "0003",
+        "creditos": 2,
+        "docente_id": 4
+    },
+    {
+        "id": 4,
+        "nombre": "Poo",
+        "codigo": "0004",
+        "creditos": 4,
+        "docente_id": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Fisica",
+        "codigo": "0005",
+        "creditos": 3,
+        "docente_id": 3
+    }
+]

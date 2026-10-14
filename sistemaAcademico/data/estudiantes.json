@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Sonnia",
+        "apellido": "Narvaez",
+        "email": "sonnia01@gmail.com",
+        "carnet": "1234"
+    },
+    {
+        "id": 2,
+        "nombre": "Jerick",
+        "apellido": "Ramirez",
+        "email": "jerick01@gmail.com",
+        "carnet": "0941"
+    },
+    {
+        "id": 4,
+        "nombre": "Karolay",
+        "apellido": "Mendez",
+        "email": "karol05@gmail.com",
+        "carnet": "5649"
+    },
+    {
+        "id": 5,
+        "nombre": "Leticia",
+        "apellido": "Narvaez",
+        "email": "letty09@gmail.com",
+        "carnet": "7642"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Daniel",
+        "apellido": "Vera",
+        "email": "daniel12@gmail.com",
+        "titulo": "Ingeniero en sistemas",
+        "especialidad": "Software"
+    },
+    {
+        "id": 2,
+        "nombre": "Josue",
+        "apellido": "Guevara",
+        "email": "josu@gmail.com",
+        "titulo": "Ingeniero de software",
+        "especialidad": "Programacion"
+    },
+    {
+        "id": 3,
+        "nombre": "Julio Cesar",
+        "apellido": "Villavicencio",
+        "email": "julito@gmail.com",
+        "titulo": "Ingeniero matematico",
+        "especialidad": "Físico Matemático"
+    },
+    {
+        "id": 4,
+        "nombre": "Alan",
+        "apellido": "Zambrano",
+        "email": "alan@gmail.com",
+        "titulo": "Ingeniero Ambiental",
+        "especialidad": "Quimico Matematico"
+    }
+]
